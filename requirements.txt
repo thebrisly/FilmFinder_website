@@ -1,0 +1,5 @@
+streamlit
+google-cloud-bigquery
+pycountry
+wordcloud
+db-dtypes
