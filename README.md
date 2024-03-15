@@ -3,10 +3,10 @@ This repository contains a simple web application built with Streamlit that allo
 
 .
 
-<img width="400" alt="Capture d’écran 2024-03-15 à 15 40 19" src="https://github.com/thebrisly/FilmFinder_website/assets/84352348/1c43a4e6-7801-4963-b756-77a8ad29d08a">
+![image](https://github.com/thebrisly/FilmFinder_website/assets/84352348/ff42ee2c-a299-43d2-9066-37c680057b73)
 
-<img width="400" alt="Capture d’écran 2024-03-15 à 15 43 49" src="https://github.com/thebrisly/FilmFinder_website/assets/84352348/253c619e-49e8-45ed-b149-a2561a913dce">
 
+![image](https://github.com/thebrisly/FilmFinder_website/assets/84352348/31b12fe9-33af-4811-a9d0-7ba91f36a85b)
 
 
 <h1>  Website Link </h1>
