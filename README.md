@@ -1,4 +1,4 @@
-<h1>  Movie Search Web Application </h1>
+<h1>  Film Finder Web Application </h1>
 This repository contains a simple web application built with Streamlit that allows users to search for movies using various filters. The application interacts with a BigQuery cloud database to fetch movie data.  
 
 .
