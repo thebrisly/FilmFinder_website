@@ -1,8 +1,6 @@
 <h1>  Film Finder Web Application </h1>
 This repository contains a simple web application built with Streamlit that allows users to search for movies using various filters. The application interacts with a BigQuery cloud database to fetch movie data.  
 
-.
-
 <img width="1089" alt="Capture d’écran 2024-03-15 à 20 18 41" src="https://github.com/thebrisly/FilmFinder_website/assets/84352348/20eadf84-9da6-446b-9380-c9bb65f558f0">
 
 
